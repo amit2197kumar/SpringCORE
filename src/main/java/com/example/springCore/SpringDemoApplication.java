@@ -1,5 +1,9 @@
-package com.example.springdemo;
+package com.example.springCore;
 
+import com.example.springCore.entity.ExamNotes;
+import com.example.springCore.entity.ExamPapers;
+import com.example.springCore.entity.Student;
+import com.example.springCore.entity.Teacher;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;

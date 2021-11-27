@@ -1,4 +1,4 @@
-package com.example.springdemo;
+package com.example.springCore.entity;
 
 public class ExamNotes {
     public void display() {

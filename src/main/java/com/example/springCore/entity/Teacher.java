@@ -1,5 +1,6 @@
-package com.example.springdemo;
+package com.example.springCore.entity;
 
+import com.example.springCore.entity.ExamPapers;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

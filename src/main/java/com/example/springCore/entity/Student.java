@@ -1,4 +1,6 @@
-package com.example.springdemo;
+package com.example.springCore.entity;
+
+import com.example.springCore.entity.ExamNotes;
 
 public class Student {
     private ExamNotes examNotes;
